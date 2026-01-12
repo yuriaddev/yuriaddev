@@ -1,6 +1,6 @@
 # Yuri Alves
 Oi! Eu sou o Yuri 😁
-C# | Unity | Game Development
+Learning C# & Unity • Game Development • Pixel Art
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFF00?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/yurialvesdeveloper/)
